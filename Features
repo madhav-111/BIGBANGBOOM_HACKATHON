@@ -1,0 +1,6 @@
+Brute Force Attack Simulation: Attempts to guess a 6-digit PIN using various strategies.
+Timing Attack Simulation: Incorporates side-channel attacks by measuring response times based on PIN correctness.
+Optimized Guessing: Utilizes popular PIN lists and pattern-based PINs to increase the efficiency of the attack.
+Smart Guessing: Incorporates likely PINs based on observed patterns.
+Parallel Processing: Leverages multiprocessing to expedite the brute force process.
+Mock 2FA Verification: Simulates a two-factor authentication step to validate guessed PINs.
