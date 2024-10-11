@@ -1,1 +1,2 @@
 # BIGBANGBOOM_HACKATHON
+This repository offers a Python script that emulates a brute force PIN cracking tool augmented with timing attack (side-channel attack) approaches. The script shows how an attacker might try to guess a 6-digit PIN by using frequent PIN patterns, smart guessing tactics, and parallel processing to maximize the attack. It also includes a dummy two-factor authentication (2FA) verification to replicate real-world settings.
